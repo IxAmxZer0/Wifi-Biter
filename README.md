@@ -8,6 +8,8 @@ So this script is here to try make this a easier process and I will update as ti
 Simply just make the the script executable with chmod +x ./Wifi-Biter or use python Wifi-biter.
 In terms of usage many wireless routers contain numbers or letters in their name for example which are of no importance for this script are just randomized for the router in question. Where this is the case replace the none important number with X.
 
+PLEASE NOTE: Router names in the script are Case Sensitive
+
 # Example:
   Instead of SKY14B7E replace the 14B7E with X's
   It should read SKYXXXXX.
